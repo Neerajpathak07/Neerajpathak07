@@ -12,7 +12,7 @@ I am pursuing B.TECH (S.Y) from Vishwakarma Institute of Technology, Pune. Addit
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Neerajpathak07&theme=gruvbox_light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Neerajpathak07&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
