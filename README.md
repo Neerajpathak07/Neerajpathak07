@@ -1,6 +1,3 @@
-
-![](https://komarev.com/ghpvc/?username=Neerajpathak07&color=green)
-
 # 💫 About Me:
 I am pursuing B.TECH (S.Y) from Vishwakarma Institute of Technology, Pune. Additionally I am part of multiple student activity clubs and was appointed as Head Of Events of EPEC(Event Planning and Execution Committee).<br>I am also a Web developer @Microsoft Learn Students Club. Where I was keen on learning about new technologies and tools. Additionally I also have a cutting edge for learning Typescript and Angular.<br><br><br>Technology excites me and I am always in awe of the change it drives in the world. Certain skills that I have worked with include Data Structures and Algorithms (C++), Web Development (Node.js, React.js,Express.js MongoDB), and I also have hands on Android Development . What I might lack in skills I make up for with my determination to learn.<br><br>Outside of tech, I love Travelling and Exploring new places, playing Football is my passion.
 
